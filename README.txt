@@ -4,7 +4,7 @@ Step 1: Create a directory for working with PowerShell and PowerShell Scripts. E
 
 Step 2: Download the PowerShell script Import-Firewall-Blocklist.ps1 from http://www.gregsitservices.com/ip-security/ip-security-package.zip and extract the PowerShell script Import-Firewall-Blocklist.ps1 to your C:\ip-security folder. *If you're reading this file you most likely already obtain this package*
 
-Step 3: Go to http://www.ipdeny.com/ipblocks/ and download the IP Tables of the countries that you do not want accessing your windows system at all. To the Right of each list grab the "aggregated zone file" for each country. Click them on them and you will see a list of IP's. Right click and save that file to your C:\ip-security directory using a basic format, THIS IS IMPORTANNT. Example, save china as china.zone.txt so that if you update the zone file it will remove any Old Rules that are created. Optionally you can grab the larger lists (on the left) but, the aggregated zones are based on activity. 
+Step 3: Go to http://www.ipdeny.com/ipblocks/ and download the IP Tables of the countries that you do not want accessing your windows system at all. To the Right of each list grab the "aggregated zone file" for each country. Click them and you will see a list of IP's. Right click and save that file to your C:\ip-security directory using a basic format, THIS IS IMPORTANNT. Example, save china as china.zone.txt so that if you update the zone file it will remove any Old Rules that are created. Optionally you can grab the larger lists (on the left) but, the aggregated zones are based on activity. 
 
 I recommend the following Zones:
  1) CHINA (CN) (save as china.zone.txt)
