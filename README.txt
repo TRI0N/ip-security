@@ -12,7 +12,7 @@ I recommend the following Zones:
  3) KOREA, REPUBLIC OF (KR) (save as southkorea.zone.txt)
  4) RUSSIAN FEDERATION (RU) (save as russia.zone.txt)
 
-Step4: Run PowerShell and Administrator (right click PowerShell and select Run As Administrator).
+Step4: Run PowerShell as Administrator (right click PowerShell and select Run As Administrator).
 
 Step 5: Type without quotes "PowerShell.exe -ExecutionPolicy Bypass" - This will set the scripts Policy of PowerShell to run so that it can make the Windows FireWall Rules.
 
